@@ -19,8 +19,9 @@
 
 1.  Acesse a Instância Gerenciada de SQL no portal do Azure.
 2.  Na página Visão geral, escolha + Novo banco de dados da sua instância gerenciada de SQL para abrir a página Criar banco de dados gerenciado do SQL do Azure.
+  <img width="749" height="326" alt="Image" src="https://github.com/user-attachments/assets/64b9b3ae-4ce9-419e-86e1-b02943c8ec74" />
 
-3.  Dê um nome para o banco de dados na guia Básico.
-4.  Na guia Fonte de dados, selecione Nenhuma para um banco de dados vazio ou restaure um banco de dados a partir do backup.
-5.  Defina as configurações restantes nas guias restantes e selecione Revisar + criar para validar suas escolhas.
-6.  Use Criar para implantar seu banco de dados.
+3.  Dê um nome para o banco de dados na guia _Basic_.
+4.  Na guia _Data Source_, selecione _None_ para um banco de dados vazio ou restaure um banco de dados a partir do backup.
+5.  Defina as configurações restantes nas guias restantes e selecione _Review + Create_ para validar suas escolhas.
+6.  Use _Create_ para implantar seu banco de dados.
