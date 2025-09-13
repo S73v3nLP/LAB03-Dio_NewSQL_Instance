@@ -7,4 +7,6 @@
 2. No menu esquerdo do portal do Azure, selecione SQL do Azure. Se SQL do Azure não estiver na lista, selecione Todos os serviços e, em seguida, digite SQL do Azure na caixa de pesquisa.
 3. Selecione + __Create__ para abrir a página Selecionar opção de implantação do SQL. Veja mais informações sobre a Instância Gerenciada de SQL do Azure selecionando Mostrar detalhes no bloco Instâncias gerenciadas de SQL.
   <img width="1151" height="696" alt="Image" src="https://github.com/user-attachments/assets/a32ab0e1-cbf8-413d-8784-6d540f97a208" />
-4. 
+4. Em __Managed Instance details__, selecione __Configure Managed Instance__ na seção __Compute + storage__ para abrir a página  __Compute + storage__ .
+  
+5. 
